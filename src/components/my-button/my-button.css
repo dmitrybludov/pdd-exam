@@ -1,0 +1,11 @@
+.myButton {
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+    margin: 5px;
+}
+
+.active {
+    background-color: lightsalmon;
+    border-radius: 3px;
+}

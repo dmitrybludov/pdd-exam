@@ -1,0 +1,22 @@
+.answer {
+    width: 100%;
+    border: 1px solid;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    background: white;
+}
+
+.answer.wrong {
+    background-color: red;
+}
+
+.answer.correct {
+    background-color: green;
+}
+
+.answer:hover {
+    background-color: lightsalmon;
+}
